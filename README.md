@@ -36,9 +36,13 @@ This project analyzes over **138,000 transactions** to understand revenue perfor
 - **Power BI** – Interactive dashboard
 
 ## Dashboard
-*(Add your Power BI dashboard screenshot here)*
+E-Commerce Dashboard <img width="1212" height="707" alt="image" src="https://github.com/user-attachments/assets/393ffbb6-5de6-427e-9a81-a94a5261ea05" />
+
 
 ## Project Structure
 - `SQL/` – Analysis queries
 - `Python/` – Data processing notebook
-- `Dashboard/` – Power BI file / screenshots
+- `Dashboard/` – Power BI file/screenshots
+
+## DataSet
+[E-Commerce Sales and Customer Analytics Dataset](https://www.kaggle.com/datasets/datascikhan/e-commerce-sales-and-customer-analytics)
